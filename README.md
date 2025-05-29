@@ -1,4 +1,5 @@
 ReactMovieApp
+
 A Simple Movie Application using React JS ,allows the user to search and filter movies they want from the MovieDB API.
 1. clone the repository:
 2.     git clone https://github.com/mimansha11/MovieReccomendation
