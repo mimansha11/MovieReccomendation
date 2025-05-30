@@ -11,7 +11,7 @@ const LastFooter = () => {
         <div className="container2 ">
           <span>
             © 2022 CinemyPlex. All Rights Reserved. Designed by{" "}
-            <a href="https://tanyabansal.surge.sh">Tanya Bansal</a>.
+            <a href=" ">Mimansha Sharma</a>.
           </span>
           <h6 href="w" className="scroll-to-top">
             <span id="toTop">Back to top &#8593;</span>
