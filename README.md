@@ -8,4 +8,6 @@ A Simple Movie Application using React JS ,allows the user to search and filter 
 5. Set your api key environment variable(.env). Get an api key from TheMovieDb
 6.     REACT_APP_API_KEY=your_api_key
 7.     npm start
+8. Live :
+9. https://movie-reccomendation-ruddy.vercel.app/
 
